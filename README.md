@@ -1,3 +1,3 @@
 # Learning Python
-Just Learning Python,Whenevr I get Something I will Post Here
+Just Learning Python,Whenever I get Something I will Post Here
 Open For Suggestions Bois
