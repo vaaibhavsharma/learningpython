@@ -1,0 +1,22 @@
+if __name__ == '__main__':
+    n = int(input())
+list = []
+for i in range(0,n):
+    last = len(list)
+    str = input().split()
+    if str[0] == 'insert':
+        list.insert(int(str[1]), int(str[2]))
+    if str[0] == 'print':
+        print(list)
+    if str[0] == 'remove':
+        list.remove(int(str[1]))
+    if str[0] == 'append':
+       list.append(int(str[1]))
+    if str[0] == 'sort':
+        list.sort()
+    if str[0] == 'pop':
+        list.pop()
+    if str[0] =='reverse':
+        list.reverse()
+
+
