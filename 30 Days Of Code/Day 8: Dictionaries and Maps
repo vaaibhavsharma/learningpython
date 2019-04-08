@@ -1,0 +1,8 @@
+n = int(input())
+myphone = dict(input().split() for _ in range(n))
+for _ in  range(n):
+    queryname = input()
+    if queryname in myphone:
+        print(queryname + "=" + myphone[queryname])
+    else:
+        print("Not found")
