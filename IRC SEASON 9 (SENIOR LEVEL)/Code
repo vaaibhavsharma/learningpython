@@ -1,0 +1,1826 @@
+
+true ▾
+PKT
+PKT
+explode
+Compare String
+String 1
+String 2
+0
+== ▾
+break out of loop ▾
+if
+do
+Read wifi Data in
+true ▾
+Read Color Sensor at
+SENSOR_PORT_5 ▾
+Read Color Sensor at
+SENSOR_PORT_4 ▾
+if
+do
+else if
+do
+else if
+do
+else if
+do
+else if
+do
+else if
+do
+else if
+do
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+left
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+right
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+right
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+stop
+Starting Explosive Commands
+break out of loop ▾
+Print String
+On Row
+Row1 ▾
+Clear LCD
+0 ▾
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+left
+Define
+c_colorleft ▾
+to
+Define
+c_colorright ▾
+to
+forward
+500
+stop
+rightof
+600
+stop
+true ▾
+Read Color Sensor at
+SENSOR_PORT_5 ▾
+Read Color Sensor at
+SENSOR_PORT_4 ▾
+if
+do
+else if
+do
+else if
+do
+else if
+do
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+left
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+right2
+c_colorright ▾
+Color
+   
+≠ ▾
+c_colorleft ▾
+Color
+   
+≠ ▾
+AND ▾
+stop
+Picked Up Explosives!
+break out of loop ▾
+Print String
+On Row
+Row1 ▾
+Clear LCD
+0 ▾
+Define
+c_colorleft ▾
+to
+Define
+c_colorright ▾
+to
+uper
+700
+backward
+700
+leftof
+1000
+hfgyhg
+true ▾
+Read Color Sensor at
+SENSOR_PORT_5 ▾
+Read Color Sensor at
+SENSOR_PORT_4 ▾
+if
+do
+else if
+do
+else if
+do
+else if
+do
+else if
+do
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+left
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+right2
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+stop
+break out of loop ▾
+Clear LCD
+0 ▾
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+Define
+c_colorleft ▾
+to
+Define
+c_colorright ▾
+to
+forward
+200
+stop
+niche
+500
+stop
+exploded
+true ▾
+PKT
+PKT
+jammer
+Compare String
+String 1
+String 2
+0
+== ▾
+break out of loop ▾
+if
+do
+Read wifi Data in
+backward
+450
+leftof
+1100
+true ▾
+Read Color Sensor at
+SENSOR_PORT_5 ▾
+Read Color Sensor at
+SENSOR_PORT_4 ▾
+if
+do
+else if
+do
+else if
+do
+else if
+do
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+left2
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+right2
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+OR ▾
+stop
+break out of loop ▾
+Clear LCD
+0 ▾
+Define
+c_colorleft ▾
+to
+Define
+c_colorright ▾
+to
+forward2
+500
+leftof
+600
+true ▾
+Read Color Sensor at
+SENSOR_PORT_5 ▾
+Read Color Sensor at
+SENSOR_PORT_4 ▾
+if
+do
+else if
+do
+else if
+do
+else if
+do
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+left
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+right
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+stop
+break out of loop ▾
+Clear LCD
+0 ▾
+Define
+c_colorleft ▾
+to
+Define
+c_colorright ▾
+to
+forward
+450
+rightof
+550
+stop
+true ▾
+Read Color Sensor at
+SENSOR_PORT_5 ▾
+Read Color Sensor at
+SENSOR_PORT_4 ▾
+if
+do
+else if
+do
+else if
+do
+else if
+do
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward2
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+left2
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+right2
+c_colorright ▾
+Color
+   
+≠ ▾
+c_colorleft ▾
+Color
+   
+≠ ▾
+AND ▾
+stop
+Picked Up Explosives!
+break out of loop ▾
+Print String
+On Row
+Row1 ▾
+Clear LCD
+0 ▾
+Define
+c_colorleft ▾
+to
+Define
+c_colorright ▾
+to
+uper
+700
+backward
+700
+leftof
+1000
+true ▾
+Read Color Sensor at
+SENSOR_PORT_5 ▾
+Read Color Sensor at
+SENSOR_PORT_4 ▾
+if
+do
+else if
+do
+else if
+do
+else if
+do
+else if
+do
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+left
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+right
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+stop
+break out of loop ▾
+Clear LCD
+0 ▾
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+Define
+c_colorleft ▾
+to
+Define
+c_colorright ▾
+to
+forward
+200
+stop
+niche
+500
+stop
+jammed
+true ▾
+PKT
+PKT
+endgame
+Compare String
+String 1
+String 2
+0
+== ▾
+break out of loop ▾
+if
+do
+Read wifi Data in
+backward
+450
+leftof
+1200
+true ▾
+Read Color Sensor at
+SENSOR_PORT_5 ▾
+Read Color Sensor at
+SENSOR_PORT_4 ▾
+if
+do
+else if
+do
+else if
+do
+else if
+do
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+left2
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+right2
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+stop
+break out of loop ▾
+Clear LCD
+0 ▾
+Define
+c_colorleft ▾
+to
+Define
+c_colorright ▾
+to
+forward2
+500
+leftof
+600
+true ▾
+Read Color Sensor at
+SENSOR_PORT_5 ▾
+Read Color Sensor at
+SENSOR_PORT_4 ▾
+if
+do
+else if
+do
+else if
+do
+else if
+do
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+left
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+right
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+OR ▾
+stop
+break out of loop ▾
+Clear LCD
+0 ▾
+Define
+c_colorleft ▾
+to
+Define
+c_colorright ▾
+to
+true ▾
+Read Color Sensor at
+SENSOR_PORT_5 ▾
+Read Color Sensor at
+SENSOR_PORT_4 ▾
+if
+do
+else if
+do
+else if
+do
+else if
+do
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+left
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+right
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+stop
+break out of loop ▾
+Clear LCD
+0 ▾
+Define
+c_colorleft ▾
+to
+Define
+c_colorright ▾
+to
+uper
+500
+snap
+stop
+leftof
+1200
+true ▾
+Read Color Sensor at
+SENSOR_PORT_5 ▾
+Read Color Sensor at
+SENSOR_PORT_4 ▾
+if
+do
+else if
+do
+else if
+do
+else if
+do
+else if
+do
+else if
+do
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward2
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+≠ ▾
+AND ▾
+left
+c_colorright ▾
+Color
+   
+≠ ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+right
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+stop
+break out of loop ▾
+Clear LCD
+0 ▾
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+break out of loop ▾
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward2
+Define
+c_colorleft ▾
+to
+Define
+c_colorright ▾
+to
+true ▾
+Read Color Sensor at
+SENSOR_PORT_5 ▾
+Read Color Sensor at
+SENSOR_PORT_4 ▾
+if
+do
+else if
+do
+else if
+do
+else if
+do
+else if
+do
+else if
+do
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+≠ ▾
+AND ▾
+left
+c_colorright ▾
+Color
+   
+≠ ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+right
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+stop
+break out of loop ▾
+Clear LCD
+0 ▾
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+Define
+c_colorleft ▾
+to
+Define
+c_colorright ▾
+to
+forward
+1000
+true ▾
+Read Color Sensor at
+SENSOR_PORT_5 ▾
+Read Color Sensor at
+SENSOR_PORT_4 ▾
+if
+do
+else if
+do
+else if
+do
+else if
+do
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+forward
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+≠ ▾
+AND ▾
+left
+c_colorright ▾
+Color
+   
+≠ ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+right
+c_colorright ▾
+Color
+   
+== ▾
+c_colorleft ▾
+Color
+   
+== ▾
+AND ▾
+stop
+break out of loop ▾
+Clear LCD
+0 ▾
+Define
+c_colorleft ▾
+to
+Define
+c_colorright ▾
+to
+niche
+700
+stop
+Time
+ms
+Repeat
+while ▾
+do
+Time
+ms
+Repeat
+while ▾
+do
+Repeat
+while ▾
+do
+Time
+ms
+Send Data Packet
+Time
+ms
+Repeat
+while ▾
+do
+Repeat
+while ▾
+do
+Time
+ms
+Time
+ms
+Repeat
+while ▾
+do
+Time
+ms
+Time
+ms
+Repeat
+while ▾
+do
+Send Data Packet
+Time
+ms
+Time
+ms
+Repeat
+while ▾
+do
+Time
+ms
+Time
+ms
+Time
+ms
+Repeat
+while ▾
+do
+Time
+ms
+Time
+ms
+Repeat
+while ▾
+do
+Time
+ms
+Time
+ms
+Repeat
+while ▾
+do
+Time
+ms
+Time
+ms
+Repeat
+while ▾
+do
+Send Data Packet
+Time
+ms
+Time
+ms
+Repeat
+while ▾
+do
+Print String
+On Row
+Row1 ▾
+Time
+ms
+Time
+ms
+Time
+ms
+Repeat
+while ▾
+do
+Time
+ms
+Time
+ms
+Repeat
+while ▾
+do
+Repeat
+while ▾
+do
+Connect to Network
+marcuj
+12345678
+Open Wi-Fi as
+Client ▾
+Declare
+c_colorleft ▾
+Declare
+c_colorright ▾
+My Program
+ 
+ 
+Move Motor at
+MOTORPORT4 ▾
+ACW ▾
+MOTORSPEED_FAST ▾
+Move Motor at
+MOTORPORT3 ▾
+CW ▾
+MOTORSPEED_FAST ▾
+to
+forward
+ 
+Move Motor at
+MOTORPORT4 ▾
+ACW ▾
+MOTORSPEED_MEDIUM ▾
+Move Motor at
+MOTORPORT3 ▾
+CW ▾
+MOTORSPEED_MEDIUM ▾
+to
+forward2
+ 
+Move Motor at
+MOTORPORT4 ▾
+ACW ▾
+MOTORSPEED_FAST ▾
+Move Motor at
+MOTORPORT3 ▾
+STOP ▾
+MOTORSPEED_FAST ▾
+to
+right
+ 
+Move Motor at
+MOTORPORT4 ▾
+CW ▾
+MOTORSPEED_FAST ▾
+Move Motor at
+MOTORPORT3 ▾
+CW ▾
+MOTORSPEED_FAST ▾
+to
+leftof
+ 
+Move Motor at
+MOTORPORT4 ▾
+ACW ▾
+MOTORSPEED_MEDIUM ▾
+Move Motor at
+MOTORPORT3 ▾
+STOP ▾
+MOTORSPEED_FAST ▾
+to
+right2
+ 
+Move Motor at
+MOTORPORT4 ▾
+ACW ▾
+MOTORSPEED_FAST ▾
+Move Motor at
+MOTORPORT3 ▾
+ACW ▾
+MOTORSPEED_FAST ▾
+to
+rightof
+ 
+Move Motor at
+MOTORPORT4 ▾
+STOP ▾
+MOTORSPEED_FAST ▾
+Move Motor at
+MOTORPORT3 ▾
+CW ▾
+MOTORSPEED_FAST ▾
+to
+left
+ 
+Move Motor at
+MOTORPORT4 ▾
+STOP ▾
+MOTORSPEED_FAST ▾
+Move Motor at
+MOTORPORT3 ▾
+CW ▾
+MOTORSPEED_MEDIUM ▾
+to
+left2
+ 
+Move Motor at
+MOTORPORT3 ▾
+STOP ▾
+MOTORSPEED_FAST ▾
+Move Motor at
+MOTORPORT4 ▾
+STOP ▾
+MOTORSPEED_FAST ▾
+to
+stop
+ 
+Move Motor at
+MOTORPORT2 ▾
+CW ▾
+MOTORSPEED_MEDIUM ▾
+to
+uper
+ 
+Move Motor at
+MOTORPORT2 ▾
+ACW ▾
+MOTORSPEED_FAST ▾
+to
+niche
+ 
+Move Motor at
+MOTORPORT4 ▾
+CW ▾
+MOTORSPEED_FAST ▾
+Move Motor at
+MOTORPORT3 ▾
+ACW ▾
+MOTORSPEED_FAST ▾
+to
+backward
+ 
+// My Program will start from here
+void main() {
+//Start of your program
+  char c_colorright;
+  char c_colorleft;
+  ConnecToServer(marcuj,12345678);
+  while(1) {
+    c_colorright = ReadColorSensor(SENSOR_PORT_5);
+    c_colorleft = ReadColorSensor(SENSOR_PORT_4);
+
+    	if((c_colorright == 'w') && (c_colorleft == 'w'))
+    	{
+    	  forward();
+
+    	}
+    	else if((c_colorright == 'w') && (c_colorleft == 'x'))
+    	{
+    	  left();
+
+    	}
+    	else if((c_colorright == 'x') && (c_colorleft == 'w'))
+    	{
+    	  right();
+
+    	}
+    	else if((c_colorright == 'g') && (c_colorleft == 'w'))
+    	{
+    	  right();
+
+    	}
+    	else if((c_colorright == 'x') && (c_colorleft == 'x'))
+    	{
+    	  forward();
+
+    	}
+    	else if((c_colorright == 'g') && (c_colorleft == 'g'))
+    	{
+    	  stop();
+      ClearLCD(Row-1);
+      PrintString("Starting Explosive Commands",Row1);
+      break;
+
+    	}
+    	else if((c_colorright == 'w') && (c_colorleft == 'g'))
+    	{
+    	  left();
+
+    	}
+
+  }
+  forward();
+  time(500);
+  stop();
+  rightof();
+  time(600);
+  stop();
+  while(1) {
+    c_colorright = ReadColorSensor(SENSOR_PORT_5);
+    c_colorleft = ReadColorSensor(SENSOR_PORT_4);
+
+    	if((c_colorright == 'w') && (c_colorleft == 'w'))
+    	{
+    	  forward();
+
+    	}
+    	else if((c_colorright == 'w') && (c_colorleft == 'g'))
+    	{
+    	  left();
+
+    	}
+    	else if((c_colorright == 'g') && (c_colorleft == 'w'))
+    	{
+    	  right2();
+
+    	}
+    	else if((c_colorright != 'w') && (c_colorleft != 'w'))
+    	{
+    	  stop();
+      ClearLCD(Row-1);
+      PrintString("Picked Up Explosives!",Row1);
+      break;
+
+    	}
+
+  }
+  uper();
+  time(700);
+  backward();
+  time(700);
+  leftof();
+  time(1000);
+  PrintString("hfgyhg",Row1);
+  while(1) {
+    c_colorright = ReadColorSensor(SENSOR_PORT_5);
+    c_colorleft = ReadColorSensor(SENSOR_PORT_4);
+
+    	if((c_colorright == 'w') && (c_colorleft == 'w'))
+    	{
+    	  forward();
+
+    	}
+    	else if((c_colorright == 'w') && (c_colorleft == 'g'))
+    	{
+    	  left();
+
+    	}
+    	else if((c_colorright == 'g') && (c_colorleft == 'w'))
+    	{
+    	  right2();
+
+    	}
+    	else if((c_colorright == 'x') && (c_colorleft == 'x'))
+    	{
+    	  stop();
+      ClearLCD(Row-1);
+      break;
+
+    	}
+    	else if((c_colorright == 'g') && (c_colorleft == 'x'))
+    	{
+    	  forward();
+
+    	}
+
+  }
+  forward();
+  time(200);
+  stop();
+  niche();
+  time(500);
+  stop();
+
+  SendData("exploded");backward();
+  time(450);
+  leftof();
+  time(1100);
+  while(1) {
+    c_colorright = ReadColorSensor(SENSOR_PORT_5);
+    c_colorleft = ReadColorSensor(SENSOR_PORT_4);
+
+    	if((c_colorright == 'w') && (c_colorleft == 'w'))
+    	{
+    	  forward();
+
+    	}
+    	else if((c_colorright == 'w') && (c_colorleft == 'g'))
+    	{
+    	  left2();
+
+    	}
+    	else if((c_colorright == 'g') && (c_colorleft == 'w'))
+    	{
+    	  right2();
+
+    	}
+    	else if(((c_colorright == 'g') && (c_colorleft == 'g')) || ((c_colorright == 'g') && (c_colorleft == 'x')))
+    	{
+    	  stop();
+      ClearLCD(Row-1);
+      break;
+
+    	}
+
+  }
+  forward2();
+  time(500);
+  leftof();
+  time(600);
+  while(1) {
+    c_colorright = ReadColorSensor(SENSOR_PORT_5);
+    c_colorleft = ReadColorSensor(SENSOR_PORT_4);
+
+    	if((c_colorright == 'w') && (c_colorleft == 'w'))
+    	{
+    	  forward();
+
+    	}
+    	else if((c_colorright == 'w') && (c_colorleft == 'x'))
+    	{
+    	  left();
+
+    	}
+    	else if((c_colorright == 'x') && (c_colorleft == 'w'))
+    	{
+    	  right();
+
+    	}
+    	else if((c_colorright == 'r') && (c_colorleft == 'r'))
+    	{
+    	  stop();
+      ClearLCD(Row-1);
+      break;
+
+    	}
+
+  }
+  forward();
+  time(450);
+  rightof();
+  time(550);
+  stop();
+  while(1) {
+    c_colorright = ReadColorSensor(SENSOR_PORT_5);
+    c_colorleft = ReadColorSensor(SENSOR_PORT_4);
+
+    	if((c_colorright == 'w') && (c_colorleft == 'w'))
+    	{
+    	  forward2();
+
+    	}
+    	else if((c_colorright == 'w') && (c_colorleft == 'r'))
+    	{
+    	  left2();
+
+    	}
+    	else if((c_colorright == 'r') && (c_colorleft == 'w'))
+    	{
+    	  right2();
+
+    	}
+    	else if((c_colorright != 'w') && (c_colorleft != 'w'))
+    	{
+    	  stop();
+      ClearLCD(Row-1);
+      PrintString("Picked Up Explosives!",Row1);
+      break;
+
+    	}
+
+  }
+  uper();
+  time(700);
+  backward();
+  time(700);
+  leftof();
+  time(1000);
+  while(1) {
+    c_colorright = ReadColorSensor(SENSOR_PORT_5);
+    c_colorleft = ReadColorSensor(SENSOR_PORT_4);
+
+    	if((c_colorright == 'w') && (c_colorleft == 'w'))
+    	{
+    	  forward();
+
+    	}
+    	else if((c_colorright == 'w') && (c_colorleft == 'r'))
+    	{
+    	  left();
+
+    	}
+    	else if((c_colorright == 'r') && (c_colorleft == 'w'))
+    	{
+    	  right();
+
+    	}
+    	else if((c_colorright == 'x') && (c_colorleft == 'x'))
+    	{
+    	  stop();
+      ClearLCD(Row-1);
+      break;
+
+    	}
+    	else if((c_colorright == 'r') && (c_colorleft == 'x'))
+    	{
+    	  forward();
+
+    	}
+
+  }
+  forward();
+  time(200);
+  stop();
+  niche();
+  time(500);
+  stop();
+
+  SendData("jammed");backward();
+  time(450);
+  leftof();
+  time(1200);
+  while(1) {
+    c_colorright = ReadColorSensor(SENSOR_PORT_5);
+    c_colorleft = ReadColorSensor(SENSOR_PORT_4);
+
+    	if((c_colorright == 'w') && (c_colorleft == 'w'))
+    	{
+    	  forward();
+
+    	}
+    	else if((c_colorright == 'w') && (c_colorleft == 'r'))
+    	{
+    	  left2();
+
+    	}
+    	else if((c_colorright == 'r') && (c_colorleft == 'w'))
+    	{
+    	  right2();
+
+    	}
+    	else if((c_colorright == 'r') && (c_colorleft == 'x'))
+    	{
+    	  stop();
+      ClearLCD(Row-1);
+      break;
+
+    	}
+
+  }
+  forward2();
+  time(500);
+  leftof();
+  time(600);
+  while(1) {
+    c_colorright = ReadColorSensor(SENSOR_PORT_5);
+    c_colorleft = ReadColorSensor(SENSOR_PORT_4);
+
+    	if((c_colorright == 'w') && (c_colorleft == 'w'))
+    	{
+    	  forward();
+
+    	}
+    	else if((c_colorright == 'w') && (c_colorleft == 'x'))
+    	{
+    	  left();
+
+    	}
+    	else if((c_colorright == 'x') && (c_colorleft == 'w'))
+    	{
+    	  right();
+
+    	}
+    	else if((c_colorright == 'b') || (c_colorleft == 'b'))
+    	{
+    	  stop();
+      ClearLCD(Row-1);
+      break;
+
+    	}
+
+  }
+  while(1) {
+    c_colorright = ReadColorSensor(SENSOR_PORT_5);
+    c_colorleft = ReadColorSensor(SENSOR_PORT_4);
+
+    	if((c_colorright == 'w') && (c_colorleft == 'w'))
+    	{
+    	  forward();
+
+    	}
+    	else if((c_colorright == 'w') && (c_colorleft == 'b'))
+    	{
+    	  left();
+
+    	}
+    	else if((c_colorright == 'b') && (c_colorleft == 'w'))
+    	{
+    	  right();
+
+    	}
+    	else if((c_colorright == 'x') && (c_colorleft == 'x'))
+    	{
+    	  stop();
+      ClearLCD(Row-1);
+      break;
+
+    	}
+
+  }
+  uper();
+  time(500);
+
+  SendData("snap");stop();
+  leftof();
+  time(1200);
+  while(1) {
+    c_colorright = ReadColorSensor(SENSOR_PORT_5);
+    c_colorleft = ReadColorSensor(SENSOR_PORT_4);
+
+    	if((c_colorright == 'w') && (c_colorleft == 'w'))
+    	{
+    	  forward2();
+
+    	}
+    	else if((c_colorright == 'w') && (c_colorleft != 'w'))
+    	{
+    	  left();
+
+    	}
+    	else if((c_colorright != 'w') && (c_colorleft == 'w'))
+    	{
+    	  right();
+
+    	}
+    	else if((c_colorright == 'x') && (c_colorleft == 'x'))
+    	{
+    	  stop();
+      ClearLCD(Row-1);
+      break;
+
+    	}
+    	else if((c_colorright == 'r') && (c_colorleft == 'r'))
+    	{
+    	  break;
+
+    	}
+    	else if((c_colorright == 'g') && (c_colorleft == 'g'))
+    	{
+    	  forward2();
+
+    	}
+
+  }
+  while(1) {
+    c_colorright = ReadColorSensor(SENSOR_PORT_5);
+    c_colorleft = ReadColorSensor(SENSOR_PORT_4);
+
+    	if((c_colorright == 'w') && (c_colorleft == 'w'))
+    	{
+    	  forward();
+
+    	}
+    	else if((c_colorright == 'w') && (c_colorleft != 'w'))
+    	{
+    	  left();
+
+    	}
+    	else if((c_colorright != 'w') && (c_colorleft == 'w'))
+    	{
+    	  right();
+
+    	}
+    	else if((c_colorright == 'x') && (c_colorleft == 'x'))
+    	{
+    	  stop();
+      ClearLCD(Row-1);
+      break;
+
+    	}
+    	else if((c_colorright == 'r') && (c_colorleft == 'r'))
+    	{
+    	  forward();
+
+    	}
+    	else if((c_colorright == 'g') && (c_colorleft == 'g'))
+    	{
+    	  forward();
+
+    	}
+
+  }
+  forward();
+  time(1000);
+  while(1) {
+    c_colorright = ReadColorSensor(SENSOR_PORT_5);
+    c_colorleft = ReadColorSensor(SENSOR_PORT_4);
+
+    	if((c_colorright == 'w') && (c_colorleft == 'w'))
+    	{
+    	  forward();
+
+    	}
+    	else if((c_colorright == 'w') && (c_colorleft != 'w'))
+    	{
+    	  left();
+
+    	}
+    	else if((c_colorright != 'w') && (c_colorleft == 'w'))
+    	{
+    	  right();
+
+    	}
+    	else if((c_colorright == 'x') && (c_colorleft == 'x'))
+    	{
+    	  stop();
+      ClearLCD(Row-1);
+      break;
+
+    	}
+
+  }
+  niche();
+  time(700);
+  stop();
+//End of your program
+}
+// Describe this function...
+void forward() {
+  MoveMotor(MOTORPORT3,CW,MOTORSPEED_FAST);
+  MoveMotor(MOTORPORT4,ACW,MOTORSPEED_FAST);
+}
+// Describe this function...
+void forward2() {
+  MoveMotor(MOTORPORT3,CW,MOTORSPEED_MEDIUM);
+  MoveMotor(MOTORPORT4,ACW,MOTORSPEED_MEDIUM);
+}
+// Describe this function...
+void right() {
+  MoveMotor(MOTORPORT3,STOP,MOTORSPEED_FAST);
+  MoveMotor(MOTORPORT4,ACW,MOTORSPEED_FAST);
+}
+// Describe this function...
+void leftof() {
+  MoveMotor(MOTORPORT3,CW,MOTORSPEED_FAST);
+  MoveMotor(MOTORPORT4,CW,MOTORSPEED_FAST);
+}
+// Describe this function...
+void right2() {
+  MoveMotor(MOTORPORT3,STOP,MOTORSPEED_FAST);
+  MoveMotor(MOTORPORT4,ACW,MOTORSPEED_MEDIUM);
+}
+// Describe this function...
+void rightof() {
+  MoveMotor(MOTORPORT3,ACW,MOTORSPEED_FAST);
+  MoveMotor(MOTORPORT4,ACW,MOTORSPEED_FAST);
+}
+// Describe this function...
+void left() {
+  MoveMotor(MOTORPORT3,CW,MOTORSPEED_FAST);
+  MoveMotor(MOTORPORT4,STOP,MOTORSPEED_FAST);
+}
+// Describe this function...
+void left2() {
+  MoveMotor(MOTORPORT3,CW,MOTORSPEED_MEDIUM);
+  MoveMotor(MOTORPORT4,STOP,MOTORSPEED_FAST);
+}
+// Describe this function...
+void stop() {
+  MoveMotor(MOTORPORT4,STOP,MOTORSPEED_FAST);
+  MoveMotor(MOTORPORT3,STOP,MOTORSPEED_FAST);
+}
+// Describe this function...
+void uper() {
+  MoveMotor(MOTORPORT2,CW,MOTORSPEED_MEDIUM);
+}
+// Describe this function...
+void niche() {
+  MoveMotor(MOTORPORT2,ACW,MOTORSPEED_FAST);
+}
+// Describe this function...
+void backward() {
+  MoveMotor(MOTORPORT3,ACW,MOTORSPEED_FAST);
+  MoveMotor(MOTORPORT4,CW,MOTORSPEED_FAST);
+}
