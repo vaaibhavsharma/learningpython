@@ -1,0 +1,25 @@
+def tribonacci(signature, n):
+    list = []
+    if n < 3:
+        if n == 1:
+            list.append(1)
+            return list
+        else:
+            return list
+    else:
+        a = signature[0]
+        b = signature[1]
+        c = signature[2]
+        list = signature
+        for i in range(3, n):
+            d = a + b + c
+            a = b
+            b = c
+            c = d
+            list.append(d)
+    return list
+
+signature = input().split()
+n = int(input())
+print(tribonacci(signature, n))
+
