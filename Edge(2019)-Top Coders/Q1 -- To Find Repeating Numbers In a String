@@ -1,0 +1,24 @@
+#Q1.Count the number of Duplicates
+#Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric
+#digits that occur more than once in the input string. The input string can be assumed to contain only
+#alphabets (both uppercase and lowercase) and numeric digits.
+#Solution
+def find(str1):
+    str2 = str1.lower()
+    sum = 0
+    list = []
+    for i in range(len(str1)):
+        for j in range(len(str1)):
+            if i == j:
+                pass
+            else:
+                if str2[j] in list:
+                    pass
+                else:
+                    if str1[i]== str2[j]:
+                        list.append(str2[j])
+    return list
+
+
+str1 = input()
+print(len(find(str1)))
